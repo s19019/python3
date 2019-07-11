@@ -1,0 +1,2 @@
+3W = "Where now? Who now? When now?".split("?")
+print(3W)
